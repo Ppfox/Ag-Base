@@ -1,5 +1,5 @@
-#ifndef _ARRAY_H
-#define _ARRAY_H
+#ifndef _GENERATE_H
+#define _GENERATE_H
 
 class generate{
 	private:
